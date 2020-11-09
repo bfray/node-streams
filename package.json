@@ -1,0 +1,13 @@
+{
+  "name": "streams",
+  "version": "0.0.0",
+  "description": "node-streams",
+  "main": "stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "curl": "curl http://localhost:1337 -d \"{\"test1\": \"test\"}\"",
+    "start": "node stream.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
